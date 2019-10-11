@@ -7,3 +7,4 @@
 3. merge test
 4. add branch
 5. merge test
+6. Git kraken test
