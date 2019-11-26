@@ -57,3 +57,31 @@ Classing quantitative data
 # http://colorbrewer2.org/#type=qualitative&scheme=Pastel2&n=6 사용해보기
 # 가운데는 옅은 색으로 하는 것이 좋다.
 # 진한 색이 더 많이 사용되어진다.
+
+2019-11-26
+데이터문제해결및실습
+ i1 i2 i3
+u1 3 4 5
+u2 2 5 3
+u3 5 2 5
+  ->
+ i1 i2 i3
+i1 x 1 1
+i2 -1 x 1
+i3 -1 -1 x
+수정 필요!\
+
+surprise + 
+과제 + 그룹 추천에서 aggregation <- 시험출제 예정
+특정 결과값을 만드는 것을 낸다고 합니다!
+Conv ReLU Pooling(마지막엔 생략하는 경우도 있습니다.)
+Pooling 값을 줄여준다.
+
+n-list데이터 확인하기!
+
+tensor 펙토라이제이션 
+stride는 2만큼 이동하는 것을 의미합니다.
+channel은 z축 방향으로 얼마나 긴지를 얘기한다.
+Pooling: 입력데이터의 변화에도 풀링의 결과는 잘 변하지 않음(Robustness)
+
+데이터시각화
