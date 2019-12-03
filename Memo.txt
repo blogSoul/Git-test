@@ -128,3 +128,4 @@ edge가 너무 길면 안 된다.
 땡기면 다시 돌아가는 것 - string속성
 edge Bundling은 추상적(abstract)한 부분이 존재한다. 
 sorting은 경험입니다!
+시험주 화요일에 예정!
