@@ -111,3 +111,20 @@ P@1 P@2 P@3 P@4
 0.2 0.2 0.6 0.8
 확인하기!
 NDCG 확인하기! RMSG 확인하기!
+
+데이터시각화
+시스템 개발할 때,
+알고리즘도 생각해야 한다. local에서 할 건가 아님 알고리즘을 줘서 할건가 아님 어떤 언어(python,R 등등)로 
+할지 생각해봐야 합니다!
+웹으로 하면 고급 렌더링하면 어렵다(그림자로 하는게 힘들다.)
+PC에서 install하는게 있는지 없는지 확인해 봐야 한다.
+genealogy and social networks 추천 
+link의 색깔, 두께 등등으로 인코딩 
+Node크기에 따라 달라질 수도 있다 
+Slice & Dice layout로 나오면 면적 교하기 힘들다. (그래서 정사각형으로 만든다.)
+Heuristics한 알고리즘이 많이 존재한다.
+edge crossing을 쓰면 안 된다. 
+edge가 너무 길면 안 된다.
+땡기면 다시 돌아가는 것 - string속성
+edge Bundling은 추상적(abstract)한 부분이 존재한다. 
+sorting은 경험입니다!
