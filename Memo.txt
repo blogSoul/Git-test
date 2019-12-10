@@ -186,4 +186,24 @@ HCI : 사용자 테스트에 의해서 만들어진다
 dependent variables인 변수를 뺄 수 있도록 합니다.
 유저 테스트를 확인해야 한다.
 
-2019-12-07
+2019-12-10
+무의식적으로 하는 것과 다르다.
+유저스터디가 제일 어렵다.
+visual encoding variables
+Multidimensional data
+
+Bar chart : 그래프를 보고 어떤 문제점이 있는지 확인해보도록 하자
+Steven's power law: 어떻게 얼마나 반응하는지 확인해보기
+interactions: 하이라이트를 넣어줍니다.
+graphic:투명하게 하는 것과 안 투명하게 하는 것 확인하기 
+cartography: 지도 어떻게 방식으로 써야 하는지 확인해야 한다.
+Text processing 확인해야 한다.
+
+color 어떻게 쓰는지 확인하기
+Opponent signals: red to green 
+
+graph,tree <- bundling
+validation :계속 쓰고 있느지 확인하기 
+
+스토리로 적을 수 있는 것!
+USB저장하기!
