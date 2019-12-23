@@ -1,1 +1,26 @@
 2019-12-22
+
+client/Server 
+Multi -chating < mvc
+쓰리티어가 있었는데, mvc가 있다.
+model , view, control이 있으면 mvc로 나눌 수 있다.
+
+자료구조는 프로그램 내부에서
+file structure는 프로그램 외부에서
+대부분 데이터베이스를 이용하고 있다.
+
+dbms에서 간편하게 해주므로 
+blocking system call = waiting 
+cpu의 이용단위는 thread로 나눠짐 
+thread 3가지 상태:  ready , running, block
+메모리에 적재되면 실행중에 있는 것과 같다. 
+입출력이 일어나면 block상태로 간다.
+muti thread로 이루어진다. 
+openGL, Node.js이 unblocking system이 사용되어진다. 
+->single thread를 사용하면  
+request가 오면 파일 처리를 해서 request
+
+스트림은 문자 스트림과 바이트 스트림으로 나누어져 있다.
+
+stream은 시스템 데이터로 사용되어진다.
+file에 stream을 붙여야 사용할 수 있다.
