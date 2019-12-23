@@ -24,3 +24,64 @@ request가 오면 파일 처리를 해서 request
 
 stream은 시스템 데이터로 사용되어진다.
 file에 stream을 붙여야 사용할 수 있다.
+
+GUI에 대해 알아보자 
+프론트엔드의 다른 라이브러리를 많이 사용한다 
+view를 만드는데 사용한다. 
+프론트엔드면 UI,UX 가 매력적(?)
+1. 메모장에 UI를 입하는 것
+components에는 2가지가 있다.
+container - heavyweight - managed by system (O.S) ex. JFrame, JApplet
+             - lightweight - managed by programmer ex. jPanel, container
+component  - JLabel
+
+layout maneger가 존재한다. 1장 33번 
+각 클래스마다 api를 확인하고 사용해야 한다.
+
+eventhandling - listener : 
+view와 control로 나눠진다.
+
+구조적->객체지향 -> 함수형, 병렬
+
+java는 jvm위에서 활동한다.
+1시 40분 내용 이해하기
+component<-refactor
+-> event-> eventhandler/method
+eventhandler/method를 포함하고 있는 class는 listener class
+interface->listener class->implements
+
+
+implements Listener -> abstart method ->그럼 5가지 다 구현해야 한다.
+extents KeyAdapter ->하면 필요한 기능만 구현 가능(다중상속은 불가능)
+
+GUI에 대해 알아보자 
+프론트엔드의 다른 라이브러리를 많이 사용한다 
+view를 만드는데 사용한다. 
+프론트엔드면 UI,UX 가 매력적(?)
+1. 메모장에 UI를 입하는 것
+components에는 2가지가 있다.
+container - heavyweight - managed by system (O.S) ex. JFrame, JApplet
+             - lightweight - managed by programmer ex. jPanel, container
+component  - JLabel
+
+layout maneger가 존재한다. 1장 33번 
+각 클래스마다 api를 확인하고 사용해야 한다.
+
+eventhandling - listener : 
+view와 control로 나눠진다.
+
+구조적->객체지향 -> 함수형, 병렬
+
+java는 jvm위에서 활동한다.
+1시 40분 내용 이해하기
+component<-refactor
+-> event-> eventhandler/method
+eventhandler/method를 포함하고 있는 class는 listener class
+interface->listener class->implements
+
+
+implements Listener -> abstart method ->그럼 5가지 다 구현해야 한다.
+extents KeyAdapter ->하면 필요한 기능만 구현 가능(다중상속은 불가능)
+
+크게 작게
+ 도움말
