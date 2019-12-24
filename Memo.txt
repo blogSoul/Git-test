@@ -123,3 +123,5 @@ mvc, mvp, amvc, 하지만 (mvvm는 다른 의미이다.)
 DAO : data access object 
 DTO : data getter setter : 데이터가 접근하고 변경하는 권한을 가지고 있다.
 VO : data getter : read only
+
+Vector 오후 23분 이전 확인하기
