@@ -112,3 +112,14 @@ jdbc 프로그램 개발 절차:
 
 (java>(SQL))->or<-(DBMS)->or<-DB
 
+DBMS - connecter - javacode -> DB
+
+MVC란 MVC_1, MVC_2가 뭔지 알아야 한다.
+기술 면접 팁 : 모르면 모른다고 얘기한다. 하지만 다른 대안에 대해 말하는게 좋다.
+view랑 model의 연결을 끊을려면 control 안에 BL이 필요하다. 
+view<->controller(presentation)<->model
+mvc, mvp, amvc, 하지만 (mvvm는 다른 의미이다.)
+
+DAO : data access object 
+DTO : data getter setter : 데이터가 접근하고 변경하는 권한을 가지고 있다.
+VO : data getter : read only
