@@ -130,3 +130,4 @@ Vector 오후 23분 이전 확인하기
 -전체시스템 구조 (MVC)<-optional
 -주요기능
 -역할분담
+(server/client)
