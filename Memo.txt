@@ -131,3 +131,22 @@ Vector 오후 23분 이전 확인하기
 -주요기능
 -역할분담
 (server/client)
+
+add(int a, int b) <- 변수의 속성까지 고려해준 것이 overloading
+
+부모 : JFrame - add()
+자식 : Main - spider() 
+->만약 override하면  JFrame a = new Main()
+ Main에서 add()를 재정의한다면 a.add()로 작성할 수 있다.
+
+Interface : 동작명세서, 클래스 관점에서 보면 메소드가 강제 정의할 수 있다.
+Interface
+{변수 public static : 인터페이스
+
+implement 는 Interface를 클래스로 설정할 수 있다.
+
+abstart class로 상속받은 것을 반환받을 수 있다. 비지니스 로직을 다 넣을 수 있다. 
+
+mysql에서 
+pre____(sql)
+       ______.execute()로 사용하는데 , 이 방법이 중복되므로 abstart class로 만들면 편하다. 
