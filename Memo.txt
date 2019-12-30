@@ -248,3 +248,40 @@ Model과 View의 관계를 끊으면서 control에서 interaction을 받게된�
 ex. asd?vqeqw?.... 로 만들어진다.
 
 카카오톡 초기버전이 방을 만들 때, arraylist를 만들어서 사용했습니다.
+
+java 
+
+접근자 
+private
+protected
+public 
+default : 명시하지 않는 접근자, 같은 패키지 안에서 사용할 수 있다.
+
+run()를 정상적으로 종료시키는 방법
+run() method 를 정상 루틴으로 종료한다.
+interrupt를 호출해서 종료시킨다.
+
+status= 상태 정보(STOP 플래그)
+
+JSON -> parser -> 객체로 
+
+json형식을 사용하는 경우
+1.parser를 사용하는 경우 
+2.문자열을 받아주는 경우
+
+view 객체와 model객체를 가지게 된다.
+
+string에서 조건을 형성해서 secret 모드를 추가할 수 있도록 한다.
+
+백엔드에서 프론트엔드 순으로 얘기할 수 있도록 합니다.
+
+message.class 객체 활용
+class e = message.class 
+클래스이름 , 클래스에 있는 필드명을 가지고 parser를 구현하는데 도움을 준다.
+factory~~  
+ex)
+if("id")
+   return new userDAO;
+else if ("product")
+   return new product;
+->method를 설정하고 필드 네임을 받을 수 있다.
