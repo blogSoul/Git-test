@@ -284,4 +284,4 @@ if("id")
    return new userDAO;
 else if ("product")
    return new product;
-->method를 설정하고 필드 네임을 받을 수 있다.
+->method를 설정하고 필드 네임을 받을 수 있다!
