@@ -285,3 +285,5 @@ if("id")
 else if ("product")
    return new product;
 ->method를 설정하고 필드 네임을 받을 수 있다!!
+
+2020-01-04 심화객체기술 
