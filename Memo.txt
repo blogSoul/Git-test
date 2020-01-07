@@ -351,3 +351,12 @@ CDC-CWindowDC
      -CCientDC  .  전체를 다시 그린다                WM_PAINT
      -CPaintDC   . 부분만 그릴 때 사용되어진다.
      -CMetafileDC <- 픽셀 단위로  저장하는게 아니라 명령어로 저장을 하게 된다.
+
+micro 
+윈도우 그래픽스에서는 그래픽을 그릴 때, 몇가지 설정해야 합니다.
+XOR형태로 그리게 된다. 
+frame buffer는 프레임 단위이다.
+
+modal은 종속적이다. 대화상자가 나오면 이전 대화상자를 누를 수 없다 
+
+영역 밖에서라도 명령이 유지돠게 해야 하므로 SetCapture를 해야 한다. 
