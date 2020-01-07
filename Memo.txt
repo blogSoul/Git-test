@@ -360,3 +360,11 @@ frame buffer는 프레임 단위이다.
 modal은 종속적이다. 대화상자가 나오면 이전 대화상자를 누를 수 없다 
 
 영역 밖에서라도 명령이 유지돠게 해야 하므로 SetCapture를 해야 한다. 
+
+OpenJL은 교육용으로밖에 안 쓰인다.
+
+close 하고 Onclose
+OnAccept 하고 Accpt
+connect하고 Onconnect를 호출한다.
+Onreceive하고 recevie를 호출한다.
+Async를 구현해주기 위해서 이렇게 해준다.
