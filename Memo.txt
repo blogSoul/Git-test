@@ -368,3 +368,13 @@ OnAccept 하고 Accpt
 connect하고 Onconnect를 호출한다.
 Onreceive하고 recevie를 호출한다.
 Async를 구현해주기 위해서 이렇게 해준다.
+
+c에선
+call by value 
+pass by reference
+pass by array(포인터)
+
+C++에선 
+pass by value 
+pass by reference
+이렇게 사용한다.
