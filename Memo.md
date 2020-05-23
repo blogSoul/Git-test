@@ -205,3 +205,7 @@ API 문서를 읽는 능력과 습관.
 
 유니온 파인드(Union Find) : 서로소 집합(Disjoint Set) 그리고 병합 찾기 집합(Merge Find Set)이라고도 불리며 여러 서로소 집합의 정보를 저장하고 있는 자료구조를 의미합니다.
 
+* 자동차 업체 친구가 알려준 몇 가지 지식
+MISRA C : https://ko.wikipedia.org/wiki/MISRA_C
+ISO 26262 : https://www.onespin.com/safetycritical?utm_term=%2Biso26262&utm_campaign=Safety&utm_source=adwords&utm_medium=ppc&hsa_acc=5530023100&hsa_cam=7859270368&hsa_grp=82358437139&hsa_ad=394370051706&hsa_src=g&hsa_tgt=kwd-296653814363&hsa_kw=%2Biso26262&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwk6P2BRAIEiwAfVJ0rB9dbFDT0BMVPsReSjVbDLRbu34FNjE8fPwShL6wBLx6aqHbhmb81BoCgfwQAvD_BwE
+A-spice : https://newbie-developer.tistory.com/15
