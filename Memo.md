@@ -209,3 +209,23 @@ API 문서를 읽는 능력과 습관.
 MISRA C : https://ko.wikipedia.org/wiki/MISRA_C
 ISO 26262 : https://www.onespin.com/safetycritical?utm_term=%2Biso26262&utm_campaign=Safety&utm_source=adwords&utm_medium=ppc&hsa_acc=5530023100&hsa_cam=7859270368&hsa_grp=82358437139&hsa_ad=394370051706&hsa_src=g&hsa_tgt=kwd-296653814363&hsa_kw=%2Biso26262&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwk6P2BRAIEiwAfVJ0rB9dbFDT0BMVPsReSjVbDLRbu34FNjE8fPwShL6wBLx6aqHbhmb81BoCgfwQAvD_BwE
 A-spice : https://newbie-developer.tistory.com/15
+
+웹 주니어 개발자가 되기 위한 Steps
+1.HTML CSS
+- 모든 태그, 용어를 다 외우는게 절대아님 구글링이 있음
+- 구조와 원리를 이해하고 어떻게 사용하는지 이해하는것에 초점을맞춤
+- 어지간한 웹사이트화면을 딱 보고 클론코딩할정도 까지 공부
+
+2.바닐라JS
+- 프레임워크를 일찍하지말고 가장기초이자 핵심인 바닐라js를 깊이공부 -> 깊이다져놓을수록 나중에 리엑트,뷰 등 프레임워크를 배우는것이 쉬워짐(시간을아낄수있음)
+- "모달창 슬라이더 메뉴 드래그엔드랍" 등 웹의 인터렉티브한 부분을 바닐라js로 능숙하게 구현해낼수있을정도 까지 익혔으면, 다음 단계로 넘아가도됨(프레임웍, 백앤드 등)
+
+3. 백엔드
+- NodeJS든 뭐든, 언어는 아무거나 가능
+- 백엔드에서 CRUD를 구현해 내기
+- '생성 읽기 수정 삭제' 가 되는 시스템을 만들어낸다는 것은, 결국 HTML,CSS,JS, DB, 등등 을 다 할줄안다는 것
+- 결국 '게시판'하나를 온전히 만들어 낼수있다는 것
+=> 이정도까지 왔으면 사실상 취업가능, 이때부턴 일하면서 돈도벌고 실무를 배우며 성장하는게 좋음
+
+4. 이후의 단게
+- 각자의 길을 밟아가기
