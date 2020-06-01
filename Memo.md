@@ -229,3 +229,5 @@ A-spice : https://newbie-developer.tistory.com/15
 
 4. 이후의 단게
 - 각자의 길을 밟아가기
+
+저장하는 파일로 txt는 쓰지말자...
