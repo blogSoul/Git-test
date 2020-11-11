@@ -149,7 +149,7 @@ Commit history 관리가 어려워짐
 
 $ git log --all --graph --oneline : 한줄로 commit 기록 확인하기  
 $ git checkout -b branch1 : branch1 브렌치를 생성하고 위치를 변경합니다.  
-
+$ git merge <remote-name> <branch-name> --allow-unrelated-histories : commit 기록이 다른 두 리퍼지토리를 합칩니다.
 # Git 심화?
 
 심화 컨텐츠를 원한다면?
